@@ -1,0 +1,38 @@
+.button {
+
+    min-width: 200px;
+    min-height: 50px;
+    border-radius: 5px;
+    border: none;
+
+    line-height: 24px;
+
+    background-color: var(--background-primary);
+    color: var(--text-light);
+
+    transition: all .2s;
+    cursor: pointer;
+
+    margin: 0.5rem 0.25rem;
+
+    &:hover {
+        background-color: var(--background-accent);
+    }
+
+    &.primary {
+        background-color: var(--button-main);
+
+        &:hover {
+            background-color: var(--button-main-accent);
+        }
+    }
+
+    &.success {
+        background-color: var(--button-success);
+
+        &:hover {
+            background-color: var(--button-success-accent);
+        }
+    }
+
+}

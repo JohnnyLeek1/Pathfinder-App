@@ -21,5 +21,13 @@
         &.selected { 
             background-color: #f00;
         }
+
+        &.start {
+            background-color: var(--button-success);
+        }
+
+        &.finish {
+            background-color: var(--button-main);
+        }
     }
 }
