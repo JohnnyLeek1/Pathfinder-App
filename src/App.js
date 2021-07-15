@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
       <h1>{rows * cols} cells</h1>
-      <Grid cells={rows * cols} ref={gridDiv} />
+      <Grid rows={rows} cols={cols} ref={gridDiv} />
     </div>
   );
 }
