@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/Pathfinder-App/static/css/main.a617e044.chunk.css",
-    "main.js": "/Pathfinder-App/static/js/main.40608c6b.chunk.js",
-    "main.js.map": "/Pathfinder-App/static/js/main.40608c6b.chunk.js.map",
-    "runtime-main.js": "/Pathfinder-App/static/js/runtime-main.c0b5f577.js",
-    "runtime-main.js.map": "/Pathfinder-App/static/js/runtime-main.c0b5f577.js.map",
-    "static/js/2.7ec88a86.chunk.js": "/Pathfinder-App/static/js/2.7ec88a86.chunk.js",
-    "static/js/2.7ec88a86.chunk.js.map": "/Pathfinder-App/static/js/2.7ec88a86.chunk.js.map",
-    "static/js/3.56bbc436.chunk.js": "/Pathfinder-App/static/js/3.56bbc436.chunk.js",
-    "static/js/3.56bbc436.chunk.js.map": "/Pathfinder-App/static/js/3.56bbc436.chunk.js.map",
+    "main.css": "/Pathfinder-App/static/css/main.c64af190.chunk.css",
+    "main.js": "/Pathfinder-App/static/js/main.5039a4d1.chunk.js",
+    "main.js.map": "/Pathfinder-App/static/js/main.5039a4d1.chunk.js.map",
+    "runtime-main.js": "/Pathfinder-App/static/js/runtime-main.130874de.js",
+    "runtime-main.js.map": "/Pathfinder-App/static/js/runtime-main.130874de.js.map",
+    "static/js/2.79d54721.chunk.js": "/Pathfinder-App/static/js/2.79d54721.chunk.js",
+    "static/js/2.79d54721.chunk.js.map": "/Pathfinder-App/static/js/2.79d54721.chunk.js.map",
+    "static/js/3.8b24258d.chunk.js": "/Pathfinder-App/static/js/3.8b24258d.chunk.js",
+    "static/js/3.8b24258d.chunk.js.map": "/Pathfinder-App/static/js/3.8b24258d.chunk.js.map",
     "index.html": "/Pathfinder-App/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/Pathfinder-App/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.7ec88a86.chunk.js.LICENSE.txt": "/Pathfinder-App/static/js/2.7ec88a86.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Pathfinder-App/static/media/logo.6ce24c58.svg"
+    "static/css/main.c64af190.chunk.css.map": "/Pathfinder-App/static/css/main.c64af190.chunk.css.map",
+    "static/js/2.79d54721.chunk.js.LICENSE.txt": "/Pathfinder-App/static/js/2.79d54721.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c0b5f577.js",
-    "static/js/2.7ec88a86.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.40608c6b.chunk.js"
+    "static/js/runtime-main.130874de.js",
+    "static/js/2.79d54721.chunk.js",
+    "static/css/main.c64af190.chunk.css",
+    "static/js/main.5039a4d1.chunk.js"
   ]
 }
